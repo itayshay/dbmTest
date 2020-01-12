@@ -1,2 +1,3 @@
 some text to a.txt
 append to a.txt
+"append to a " 
